@@ -1,5 +1,5 @@
 # EnigmaDesktop
-Encrypting desktop application using pseudo Enigma cypher. JavaFX and MVC  also used. One of the first projects during studies.
+Encrypting desktop application using pseudo Enigma cypher. Pure Java for back-end and JavaFX for front-end. MVC architecture. One of the first projects during studies.
 
 Software uses only redeable ASCI characters so do not worry that after copying you will loss information.
 
