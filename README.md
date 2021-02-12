@@ -6,3 +6,8 @@ Software uses only redeable ASCI characters so do not worry that after copying y
 Instead of typing, you can also use txt encoding. New file will be saved in the same direction as given one.
 
 Not the best visually but working :)
+
+
+
+
+![UI](https://github.com/PDymala/EnigmaDesktop/blob/master/enigma.JPG?raw=true "UI")
